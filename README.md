@@ -12,7 +12,6 @@
         <h1>assignment for Day-2</h1>
         <h3>click on the image showing below</h3>
         <a href="https://bit.ly/3NQCCS4"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="20" height="20"/>
-
-      </body>
+  </body>
   </head>
 </html>
