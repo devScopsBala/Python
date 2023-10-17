@@ -16,6 +16,8 @@
 
    <h1>Day-3</h1>
    <a href="https://youtu.be/dJdBYfgmqwo?si=K_XNVkGX7Ms8THnv"/><img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8fDA%3D&w=1000&q=80" width="30" height="30"/>
+     <h1> assignment of Day-3 </h1>
+     <h3>pls click on the below image to get the questions</h3>
   </body>
   </head>
 </html>
