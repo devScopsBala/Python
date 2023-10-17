@@ -1,6 +1,6 @@
 <html>
   <head>
-    <body>
+    <body align="center">
       <img src="https://th.bing.com/th?id=OSK.51053f2608887c85ccaf7038d1e46985&w=116&h=156&c=7&o=6&pid=SANGAM" width="50" height="50" align="center"/>
       <h1>Basics of python to pro level of python</h1>
       <h3>Day-2</h3>
