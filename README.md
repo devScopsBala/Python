@@ -8,6 +8,9 @@
        <br>
          <h4>detail blogger to install python</h4>
       <a href="https://www.blogger.com/u/1/blog/post/edit/217627150224491225/1310585105939831594"/><img src="https://images.pexels.com/photos/262508/pexels-photo-262508.jpeg?cs=srgb&dl=pexels-pixabay-262508.jpg&fm=jpg" width="50" height="50"/>
+
+      <h1>answer the below questions</h1>
+      <a href=" https://bit.ly/3NQCCS4"/>
      
       </body>
   </head>
