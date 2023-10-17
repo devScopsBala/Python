@@ -1,1 +1,24 @@
+Type casting
+1) Type casting means type conversion
+2) There are two types of type casting -
+a) Implicit type casting - happens directly without our intervention
+i) Eg: a = 3 Here, a is automatically made into an int by assigning 3
+into it.
 
+b) Explicit type casting - requires our intervention
+i) Eg: b = 3.14
+ii) c = int(b) Here, c is made into int forcefully and 0.14 data is
+discarded which makes c = 3
+
+Comments
+1) Comments are used mainly in two cases -
+a) To avoid a line of code from running/executing
+b) To avoid description of a code from being treated as code and
+executed.
+
+2) There are two types of comments -
+a) Single line comments ( # )
+i) Eg: #a = 3
+b) Multi line comments ( “”” “”” )
+i) Eg: “”” a = 3
+b = 6
