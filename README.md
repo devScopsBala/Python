@@ -1,7 +1,7 @@
 <html>
   <head>
-    <body align="center">
-      <img src="https://th.bing.com/th?id=OSK.51053f2608887c85ccaf7038d1e46985&w=116&h=156&c=7&o=6&pid=SANGAM" width="50" height="50" align="center"/>
+    <body align="center" >
+      <img src="https://th.bing.com/th?id=OSK.51053f2608887c85ccaf7038d1e46985&w=116&h=156&c=7&o=6&pid=SANGAM" width="50" height="50"/>
       <h1>Basics of python to pro level of python</h1>
       <h3>Day-2</h3>
        <a href="https://youtu.be/Q8H9A7T8tbo?si=90QnzqNH4FJFcuK0"/><img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8fDA%3D&w=1000&q=80" width="30" height="30"/>
