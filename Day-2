@@ -4,4 +4,40 @@ variables
 
 Installation:-
 -----------------------
+installation file is uploaded in readme.file.Just go there for your reference
 
+Variables:
+-----------------------
+1) Data is crucial part of every program, because data is something that is both
+input & output for a program.
+
+2) Many times, it is required to store this data in the program temporarily. For this
+purpose, we create variables.
+
+3) Variables are just containers to store data & variable names are just labels to
+those containers.
+
+4) There are certain rules to name a variable -
+a) Starts with underscore( _ ) and letters only. (Letters include a,b,c,...z and
+A,B,C,...Z)
+b) Contains only letters, numbers and underscore
+5) We can store data in any variable using equals sign ( = )
+
+DataTypes
+1) All data elements need containers i.e. variables to be stored but the type of
+those containers can be very different due to the kind of data that is being
+stored.
+2) Following are the types of data based on various properties -
+a) Numeric
+i) Integer: To store integers Eg: 25,-6,64
+ii) Float: To store numbers with decimal Eg: 3.14,9.7
+iii) Complex: To store numbers with real and imaginary part Eg: 4+3j
+b) Boolean: To store result of expressions with results in either True or False
+c) Sequential
+i) Strings
+ii) Tuples
+iii) Lists
+d) Sets
+e) Dictionaries
+3) We will discuss Sequential, Sets, Dictionaries in further days to come. Stay
+tuned...
