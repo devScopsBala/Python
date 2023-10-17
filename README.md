@@ -1,9 +1,4 @@
-<!doctype.html>
-
-<html>
-  <head>
-    <title>Python</title>
-  </head>
+</head>
 
   <body>
     <h1>Day-1</h1>
