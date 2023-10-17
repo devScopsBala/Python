@@ -9,9 +9,9 @@
          <h4>detail blogger to install python</h4>
       <a href="https://www.blogger.com/u/1/blog/post/edit/217627150224491225/1310585105939831594"/><img src="https://images.pexels.com/photos/262508/pexels-photo-262508.jpeg?cs=srgb&dl=pexels-pixabay-262508.jpg&fm=jpg" width="50" height="50"/>
         <br>
-        <h1>assignment</h1>
+        <h1>assignment for Day-2</h1>
+        <h3>click on the image showing below</h3>
         <a href="https://bit.ly/3NQCCS4"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="20" height="20"/>
-          <a href="https://bit.ly/3GKNpL1"/><img src=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="20" height="20"/>
 
       </body>
   </head>
