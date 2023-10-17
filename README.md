@@ -10,7 +10,7 @@
       <a href="https://www.blogger.com/u/1/blog/post/edit/217627150224491225/1310585105939831594"/><img src="https://images.pexels.com/photos/262508/pexels-photo-262508.jpeg?cs=srgb&dl=pexels-pixabay-262508.jpg&fm=jpg" width="50" height="50"/>
         <br>
         <h1>assignment</h1>
-        <a href="https://bit.ly/3NQCCS4"/><img src="https://assets.stickpng.com/images/5a4613e5d099a2ad03f9c995.png" width="20" height="20"/>
+        <a href="https://bit.ly/3NQCCS4"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="20" height="20"/>
       </body>
   </head>
 </html>
