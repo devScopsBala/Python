@@ -20,7 +20,7 @@
      <h3>pls click on the below image to get the questions</h3>
      <a href="https://bit.ly/3Mfq7xT"/><h3>click here for assignment</h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
 
-   <h1>Day-4</h1>
+   <img src="https://www.shutterstock.com/image-photo/day-4-mini-blackboard-isolated-260nw-432677767.jpg"/>
    <a href="https://youtu.be/rCrEpy_x-fc?si=1TZdfhmMYBok271M"/><img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8fDA%3D&w=1000&q=80" width="30" height="30"/>
      <h1>assignment of Day-4</h1>
      <h3>Adding of two numbers and input and output theory</h3>
