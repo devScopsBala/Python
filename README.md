@@ -11,25 +11,25 @@
         <br>
         <h1>assignment for Day-2</h1>
         <h3>click on the image showing below</h3>
-        <a href="https://bit.ly/3NQCCS4"/><h3>click here for assignment</h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
+        <a href="https://bit.ly/3NQCCS4"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
 
 
    <h1>Day-3</h1>
    <a href="https://youtu.be/dJdBYfgmqwo?si=K_XNVkGX7Ms8THnv"/><img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8fDA%3D&w=1000&q=80" width="30" height="30"/>
      <h1> assignment of Day-3 </h1>
      <h3>pls click on the below image to get the questions</h3>
-     <a href="https://bit.ly/3Mfq7xT"/><h3>click here for assignment</h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
+     <a href="https://bit.ly/3Mfq7xT"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
 
    <h1>Day-4</h1>
    <a href="https://youtu.be/rCrEpy_x-fc?si=1TZdfhmMYBok271M"/><img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8fDA%3D&w=1000&q=80" width="30" height="30"/>
      <h1>assignment of Day-4</h1>
      <h3>Adding of two numbers and input and output theory</h3>
-     <a href="https://bit.ly/3GWkaoQ"/><h3>click here for assignment</h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
+     <a href="https://bit.ly/3GWkaoQ"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
        <h1>Day-5</h1>
        <a href="https://youtu.be/SqV3pqkZtTw?si=c87rPj9YLxGr6Z3n"/><img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8fDA%3D&w=1000&q=80" width="30" height="30"/>
          <h1>assignment of Day-5</h1>
          <h3>This is about the operators</h3>
-         <a href="https://bit.ly/3MiZkkg"/><h3>click here for assignment</h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
+         <a href="https://bit.ly/3MiZkkg"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
        </body>
   </head>
 </html>
