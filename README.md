@@ -42,7 +42,6 @@
                    <a href="https://youtu.be/LN-VdB7TiEQ?si=QxnUQILcLPSllMf4"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
                      <h3>assignment for Day-8</h3>
                      <a href="https://bit.ly/3teul26"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIdcKGYqsZ42cMK8z6LY-Lxv504vVhcHiq87kEfw&s" width="30" height="20"/>
-               <h1>Day-7</h1>
        </body>
   </head>
 </html>
